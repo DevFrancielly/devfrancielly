@@ -1,4 +1,6 @@
 ## Olá sou, Francielly Silva
+Estudante de Desenvolvimento web
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevFrancielly&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFrancielly&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
