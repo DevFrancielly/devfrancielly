@@ -1,20 +1,29 @@
-## Olá sou, Francielly Silva
-Estudante de Desenvolvimento web
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00CFFF&height=200&section=header&text=Olá,%20sou%20a%20Francielly!&fontSize=40&fontColor=ffffff&animation=twinkling" />
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Frana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Frana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Frana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
+# 👩‍💻 Sobre mim
+
+🚀 Desenvolvedora Front-End focada em aplicações mobile e web.  
+💡 Entusiasta de tecnologia, inovação e boas práticas de código.  
+📚 Estudando **React Native** e aprofundando meus conhecimentos em **JavaScript**.
+
+---
+
+# 🛠️ Tecnologias e Ferramentas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,github,vscode" />
 </div>
 
-##
+---
 
-<div> 
-  <a href="https://instagram.com/_llyxx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me/874051003933130773" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:dev.francielly@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/francielly-silva-316a201a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+# 📊 GitHub Stats
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevFrancielly&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFrancielly&layout=compact&theme=tokyonight" />
 </div>
+
+---
+
+# 📫 Onde me encontrar
+- [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
+- [Instagram](https://www.instagram.com/seu-instagram/)
+- 📧 Email: dev.francielly@gmail.com
