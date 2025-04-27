@@ -28,7 +28,7 @@
 ---
 
 # 🌎 Vamos nos conectar
-- 🌐 [Meu LinkedIn]([https://www.linkedin.com/in/francielly-silva-316a201a1/])
+- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/francielly-silva-316a201a1/)
 - 📸 [Instagram](https://www.instagram.com/http.llyxx/)
 - 📧 dev.francielly@gmail.com
 
