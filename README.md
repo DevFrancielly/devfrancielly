@@ -30,7 +30,7 @@
 # 🌎 Vamos nos conectar
 - 🌐 [Meu LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
 - 📸 [Instagram](https://www.instagram.com/seu-instagram/)
-- 📧 Email: seuemail@email.com
+- 📧 dev.francielly@gmail.com
 
 ---
 > *"Programar é dar vida às ideias!"* 🚀
