@@ -28,8 +28,8 @@
 ---
 
 # 🌎 Vamos nos conectar
-- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
-- 📸 [Instagram](https://www.instagram.com/seu-instagram/)
+- 🌐 [Meu LinkedIn]([https://www.linkedin.com/in/francielly-silva-316a201a1/])
+- 📸 [Instagram](https://www.instagram.com/http.llyxx/)
 - 📧 dev.francielly@gmail.com
 
 ---
